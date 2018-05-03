@@ -1,6 +1,6 @@
 # Pull base image
 # ---------------
-FROM jenkins/jenkins:2.89.2
+FROM jenkins/jenkins:2.107.1
 
 # Maintainer
 # ----------
